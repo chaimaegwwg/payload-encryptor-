@@ -101,6 +101,10 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+// this command to generate the exe file
+// gcc -o encryptionn encryptionn.c -lssl -lcrypto
+
+
 
 
 
